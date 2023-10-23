@@ -1,0 +1,68 @@
+[
+  {
+    "codigoProducto": "01",
+    "nombreProducto":"blusa",
+    "inventarioProducto": 5,
+    "precioProducto": 45000
+  },
+  {
+    "codigoProducto": "02",
+    "nombreProducto":"blusa",
+    "inventarioProducto": 6,
+    "precioProducto": 15000
+  },
+  {
+    "codigoProducto": "03",
+    "nombreProducto":"blusa",
+    "inventarioProducto": 12,
+    "precioProducto": 1000
+  },
+  {
+    "codigoProducto": "04",
+    "nombreProducto":"blusa",
+    "inventarioProducto": 11,
+    "precioProducto": 35000
+  },
+  {
+    "codigoProducto": "05",
+    "nombreProducto":"blusa",
+    "inventarioProducto": 14,
+    "precioProducto": 75000
+  },
+  {
+    "codigoProducto": "06",
+    "nombreProducto":"blusa",
+    "inventarioProducto": 15,
+    "precioProducto": 65500
+  },
+  {
+    "codigoProducto": "07",
+    "nombreProducto":"blusa",
+    "inventarioProducto": 12,
+    "precioProducto": 655000
+  },
+  {
+    "codigoProducto": "08",
+    "nombreProducto":"blusa",
+    "inventarioProducto": 10,
+    "precioProducto": 12000
+  },
+  {
+    "codigoProducto": "09 ",
+    "nombreProducto":"blusa",
+    "inventarioProducto": 18,
+    "precioProducto": 18000
+  },
+  {
+    "codigoProducto": "03",
+    "nombreProducto":"blusa",
+    "inventarioProducto": 13,
+    "precioProducto": 250
+  },
+  {
+    "codigoProducto": "10",
+    "nombreArchivo": "blusa",
+    "inventarioProducto": 2,
+    "precioProducto": 20000
+  }
+]
